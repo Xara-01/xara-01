@@ -28,7 +28,7 @@
 
 <br>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Xara-01](https://github.com/Xara-01) and  https://discord.gg/WajMeYnsAa
+- 👨‍💻 All of my projects are available at [https://github.com/Xara-01](https://github.com/Xara-01)
 
 <br>
 
