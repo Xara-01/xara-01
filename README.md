@@ -3,7 +3,7 @@
 <h3 align="center">I'm french python,css,html,bath devloper.</h3>
 
 <p align="left">
-    <h3 align="center">My latest project was -> <a href="https://github.com/Xara-01/BotNuker"> BotNuker 🔥 - </a></h3>
+    <h3 align="center">My latest project was -> <a href="https://github.com/Xara-01/BotNuker"> BotNuker 🔥</a></h3>
 </p>
 
 <p align="left">
@@ -19,6 +19,7 @@
 -----
 
 <img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
+<br>
 <br>
 <br>
 <br>
