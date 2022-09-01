@@ -25,6 +25,10 @@
 
 - 🔭 I’m actuly learning python,css,html,bath
 
+<br>
+
 - 👨‍💻 All of my projects are available at [https://github.com/Xara-01](https://github.com/Xara-01) and  https://discord.gg/WajMeYnsAa
+
+<br>
 
 - 📝 My discord server [https://discord.gg/WajMeYnsAa](https://discord.gg/WajMeYnsAa)
