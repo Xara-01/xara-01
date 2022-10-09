@@ -3,7 +3,7 @@
 <h3 align="center">I'm french python,css,html,bath devloper.</h3>
 
 <p align="left">
-    <h3 align="center">My latest project was -> <a href="https://github.com/Xara-01/ThunderTool"> ThunderTool 🔥</a></h3>
+    <h3 align="center">My latest project was -> <a href="https://github.com/Xara-01/Hype-squad-changer"> Hype squad changer 🔥</a></h3>
 </p>
 
 <p align="left">
