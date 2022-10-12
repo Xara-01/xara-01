@@ -41,8 +41,10 @@
 
 -----
 
+<br>
+ 
 <p align="center">
-  ⚙ Stats
+  ⚙ STATS
 
 <br>
 
