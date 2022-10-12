@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm xara-01</h1>
 
-<h3 align="center">I'm french <img src="https://user-images.githubusercontent.com/114299529/195045788-d792ec78-5ed2-4318-9c32-5bb2ebba29d4.png" width="40px"> devloper.</h3>
+<h3 align="center">I'm french <img src="https://user-images.githubusercontent.com/114299529/195045788-d792ec78-5ed2-4318-9c32-5bb2ebba29d4.png" width="40px"> <img src="https://user-images.githubusercontent.com/114299529/195044924-7d6f019b-9b82-4a17-b0f2-f0447c8ee2fa.png" width="40px"> <img src="https://user-images.githubusercontent.com/114299529/195045243-3e577ef5-3ddf-4f43-ad0c-da0d42f00d22.png" width="40px">devloper.</h3>
 
 <p align="center">
     <h3 align="center">My latest project was -> <a href="https://github.com/Xara-01/Hype-squad-changer"> Hype squad changer 🔥</a></h3>
