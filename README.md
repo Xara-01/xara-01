@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm xara-01</h1>
 
-<h3 align="center">I'm french python,css,html,bath devloper.</h3>
+<h3 align="center">I'm french <img src="https://user-images.githubusercontent.com/114299529/195045788-d792ec78-5ed2-4318-9c32-5bb2ebba29d4.png" width="40px"> devloper.</h3>
 
 <p align="center">
     <h3 align="center">My latest project was -> <a href="https://github.com/Xara-01/Hype-squad-changer"> Hype squad changer 🔥</a></h3>
