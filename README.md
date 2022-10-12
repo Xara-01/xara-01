@@ -33,7 +33,10 @@
 <br>
 
 - 📝 My discord server [https://discord.gg/WajMeYnsAa](https://discord.gg/WajMeYnsAa)
-
+<br>
+<br>
+<br>
+<br>
 -----
 
 ![xara-01 GitHub stats](https://github-readme-stats.vercel.app/api?username=xara-01&show_icons=true&theme=dracula)
