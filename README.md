@@ -35,7 +35,7 @@
 
 <br>
 
-- 📝 My discord server [https://discord.gg/WajMeYnsAa](https://discord.gg/WajMeYnsAa)
+- 📝 My discord server [[https://discord.gg/WajMeYnsAa](https://discord.gg/pPZCQFHTWf)]
 <br>
 <br>
 <br>
