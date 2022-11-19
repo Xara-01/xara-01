@@ -37,6 +37,12 @@
 
 - 📝 My discord server [https://discord.gg/WajMeYnsAa](https://discord.gg/pPZCQFHTWf)
 <br>
+    
+- ☕ Buy me a coffee
+    BTC: bc1q3n7v53mpcwp5mecvn75du23ynxzr67pcudxcnw
+    XMR: 49FLoVGhsfVS6qo2wEFZ1eWPmfroUg3oddy6V9SyY7n1EWNjjMoUWYYiDeSNYysA5XAPnBAPa5atceKoiLxzB4U3Kzefkqf
+    ETH: 0x240a63DA568306dCca13628bff2a36B1069C84F3
+    
 <br>
 <br>
 <br>
