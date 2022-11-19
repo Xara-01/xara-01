@@ -17,11 +17,13 @@
 <br>
                              
 <p align="center"> 🔎 I’m actuly learning       <br> <img src="https://user-images.githubusercontent.com/114299529/195045788-d792ec78-5ed2-4318-9c32-5bb2ebba29d4.png" width="30px">  <img src="https://user-images.githubusercontent.com/114299529/195045243-3e577ef5-3ddf-4f43-ad0c-da0d42f00d22.png" width="30px">  <img src="https://user-images.githubusercontent.com/114299529/195044924-7d6f019b-9b82-4a17-b0f2-f0447c8ee2fa.png" width="30px">  <img src="https://imgs.search.brave.com/QzK9M4F3TkAV8BdxNAvdBDENcNDsCKqmPy4RMQMGybs/rs:fit:300:300:1/g:ce/aHR0cHM6Ly9rZWVz/dGFsa3N0ZWNoLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OS8wOC9iYXNoLWxv/Z28tMzAweDMwMC5w/bmc" width="30px"> 
-                             
+
+<br>
 <br>
 
 <p align="center"> <img src="https://imgs.search.brave.com/6MAw2jeXTA_bKzh5IcKSVgNGoeRWF95TQH3rIPN9cCs/rs:fit:920:920:1/g:ce/aHR0cHM6Ly9jbGlw/YXJ0Y3JhZnQuY29t/L2ltYWdlcy9zb3Vu/ZGNsb3VkLWxvZ28t/cG5nLW11c2ljLTgu/cG5n" width="20px"> My SoundCloud <br> https://soundcloud.com/xara_01
 
+<br>
 <br>
 
 <p align="center"> <img src="https://imgs.search.brave.com/AikTgZTJqe4pGT__1YSbtNsprB5LYOFISn69mu-O6zE/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9wbmdn/cmlkLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMS8wNS9E/aXNjb3JkLUxvZ28t/Q2lyY2xlLTIwNDh4/MjA0OC5wbmc" width="20px"> My Discord server <br> https://discord.gg/WajMeYnsAa
