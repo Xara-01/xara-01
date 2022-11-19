@@ -45,7 +45,8 @@
     
 -----
     
-<p>                                              ☕ Buy me a coffee<p/>
+<p align="center">☕ Buy me a coffee<p/>
+
     <br>
     <br>
     <img src="https://imgs.search.brave.com/3mgxOck10jXChebX3fik5F2l3-LeoIxy9HB-cMTxGGk/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/Y3JpcHRvbW9uZWRh/cy5jby93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMS8wMS9iaXRj/b2luLWJ0Yy1sb2dv/LnBuZw" width="20px"> BTC: bc1q3n7v53mpcwp5mecvn75du23ynxzr67pcudxcnw
