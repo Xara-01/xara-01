@@ -29,7 +29,8 @@
 <p align="center"> <img src="https://imgs.search.brave.com/AikTgZTJqe4pGT__1YSbtNsprB5LYOFISn69mu-O6zE/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9wbmdn/cmlkLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMS8wNS9E/aXNjb3JkLUxvZ28t/Q2lyY2xlLTIwNDh4/MjA0OC5wbmc" width="20px"> My Discord server <br> https://discord.gg/WajMeYnsAa
 <br>
 <br>
-<br>   
+<br>  
+<br>
   
 -----
     
