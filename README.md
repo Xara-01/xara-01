@@ -37,6 +37,11 @@
 
 - 📝 My discord server [https://discord.gg/WajMeYnsAa](https://discord.gg/pPZCQFHTWf)
 <br>
+<br>
+<br>   
+<br>
+<br>
+-----
     
 - ☕ Buy me a coffee
     <br>
