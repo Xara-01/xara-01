@@ -29,11 +29,11 @@
                              
 <br>
 
-- <img src="https://imgs.search.brave.com/6MAw2jeXTA_bKzh5IcKSVgNGoeRWF95TQH3rIPN9cCs/rs:fit:920:920:1/g:ce/aHR0cHM6Ly9jbGlw/YXJ0Y3JhZnQuY29t/L2ltYWdlcy9zb3Vu/ZGNsb3VkLWxvZ28t/cG5nLW11c2ljLTgu/cG5n" width="20px">  My SoundCloud https://soundcloud.com/xara_0
+- <img src="https://imgs.search.brave.com/6MAw2jeXTA_bKzh5IcKSVgNGoeRWF95TQH3rIPN9cCs/rs:fit:920:920:1/g:ce/aHR0cHM6Ly9jbGlw/YXJ0Y3JhZnQuY29t/L2ltYWdlcy9zb3Vu/ZGNsb3VkLWxvZ28t/cG5nLW11c2ljLTgu/cG5n" width="20px">My SoundCloud https://soundcloud.com/xara_0
 
 <br>
 
-- <img src="https://imgs.search.brave.com/-75UhKC8OWtm5wI1SbyCqo7LqTI_ZMg7nwqV9JafOgg/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzE5Lzdi/LzM2LzE5N2IzNjU5/MjJkMWVhM2FhMWE5/MzJmZjliYmRhNGE2/LnBuZw" width="30px"> My Youtube https://soundcloud.com/xara_0
+- <img src="https://imgs.search.brave.com/-75UhKC8OWtm5wI1SbyCqo7LqTI_ZMg7nwqV9JafOgg/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzE5Lzdi/LzM2LzE5N2IzNjU5/MjJkMWVhM2FhMWE5/MzJmZjliYmRhNGE2/LnBuZw" width="30px">My Youtube https://soundcloud.com/xara_0
 
 <br>
 
