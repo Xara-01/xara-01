@@ -46,7 +46,6 @@
 -----
     
 <p align="center">☕ Buy me a coffee
-
 <img src="https://imgs.search.brave.com/yxispepd98yRlSIE6dYfmzb8VzmyGGhhWH7rdLSiLDc/rs:fit:192:192:1/g:ce/aHR0cHM6Ly9uYW5v/cG9vbC5vcmcvaWNv/bnMveG1yLWxvZ28u/cG5n" width="20px"> XMR: 49FLoVGhsfVS6qo2wEFZ1eWPmfroUg3oddy6V9SyY7n1EWNjjMoUWYYiDeSNYysA5XAPnBAPa5atceKoiLxzB4U3Kzefkqf
 <br>
 <br>
