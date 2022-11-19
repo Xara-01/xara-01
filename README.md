@@ -47,15 +47,15 @@
     
 <p align="center">☕ Buy me a coffee
 
-    <br>
-    <br>
-    <img src="https://imgs.search.brave.com/3mgxOck10jXChebX3fik5F2l3-LeoIxy9HB-cMTxGGk/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/Y3JpcHRvbW9uZWRh/cy5jby93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMS8wMS9iaXRj/b2luLWJ0Yy1sb2dv/LnBuZw" width="20px"> BTC: bc1q3n7v53mpcwp5mecvn75du23ynxzr67pcudxcnw
-    <br>
-    <br>
-    <img src="https://imgs.search.brave.com/MFA9y4bECHAS_HU3ObURUUpfST9LTFHSxH5tZ5yRCwg/rs:fit:1024:1024:1/g:ce/aHR0cDovL2ljb25z/Lmljb25hcmNoaXZl/LmNvbS9pY29ucy9j/amRvd25lci9jcnlw/dG9jdXJyZW5jeS1m/bGF0LzEwMjQvRXRo/ZXJldW0tRVRILWlj/b24ucG5n" width="20px"> ETH: 0x240a63DA568306dCca13628bff2a36B1069C84F3
-    <br>
-    <br>
-    <img src="https://imgs.search.brave.com/yxispepd98yRlSIE6dYfmzb8VzmyGGhhWH7rdLSiLDc/rs:fit:192:192:1/g:ce/aHR0cHM6Ly9uYW5v/cG9vbC5vcmcvaWNv/bnMveG1yLWxvZ28u/cG5n" width="20px"> XMR: 49FLoVGhsfVS6qo2wEFZ1eWPmfroUg3oddy6V9SyY7n1EWNjjMoUWYYiDeSNYysA5XAPnBAPa5atceKoiLxzB4U3Kzefkqf
+<br>
+<br>
+<img src="https://imgs.search.brave.com/3mgxOck10jXChebX3fik5F2l3-LeoIxy9HB-cMTxGGk/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/Y3JpcHRvbW9uZWRh/cy5jby93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMS8wMS9iaXRj/b2luLWJ0Yy1sb2dv/LnBuZw" width="20px"> BTC: bc1q3n7v53mpcwp5mecvn75du23ynxzr67pcudxcnw
+<br>
+<br>
+<img src="https://imgs.search.brave.com/MFA9y4bECHAS_HU3ObURUUpfST9LTFHSxH5tZ5yRCwg/rs:fit:1024:1024:1/g:ce/aHR0cDovL2ljb25z/Lmljb25hcmNoaXZl/LmNvbS9pY29ucy9j/amRvd25lci9jcnlw/dG9jdXJyZW5jeS1m/bGF0LzEwMjQvRXRo/ZXJldW0tRVRILWlj/b24ucG5n" width="20px"> ETH: 0x240a63DA568306dCca13628bff2a36B1069C84F3
+<br>
+<br>
+<img src="https://imgs.search.brave.com/yxispepd98yRlSIE6dYfmzb8VzmyGGhhWH7rdLSiLDc/rs:fit:192:192:1/g:ce/aHR0cHM6Ly9uYW5v/cG9vbC5vcmcvaWNv/bnMveG1yLWxvZ28u/cG5n" width="20px"> XMR: 49FLoVGhsfVS6qo2wEFZ1eWPmfroUg3oddy6V9SyY7n1EWNjjMoUWYYiDeSNYysA5XAPnBAPa5atceKoiLxzB4U3Kzefkqf
     
 <br>
 <br>
