@@ -31,7 +31,7 @@
                              
 <br>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Xara-01](https://github.com/Xara-01)
+- ⭐ All my song [https://soundcloud.com/xara_0]
 
 <br>
 
