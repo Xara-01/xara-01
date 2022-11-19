@@ -20,11 +20,11 @@
                              
 <br>
 
-- <img src="https://imgs.search.brave.com/6MAw2jeXTA_bKzh5IcKSVgNGoeRWF95TQH3rIPN9cCs/rs:fit:920:920:1/g:ce/aHR0cHM6Ly9jbGlw/YXJ0Y3JhZnQuY29t/L2ltYWdlcy9zb3Vu/ZGNsb3VkLWxvZ28t/cG5nLW11c2ljLTgu/cG5n" width="20px"> My SoundCloud <a href = "https://soundcloud.com/xara_01" Here</a> 
+- <img src="https://imgs.search.brave.com/6MAw2jeXTA_bKzh5IcKSVgNGoeRWF95TQH3rIPN9cCs/rs:fit:920:920:1/g:ce/aHR0cHM6Ly9jbGlw/YXJ0Y3JhZnQuY29t/L2ltYWdlcy9zb3Vu/ZGNsb3VkLWxvZ28t/cG5nLW11c2ljLTgu/cG5n" width="15px"> My SoundCloud https://soundcloud.com/xara_01
 
 <br>
 
-- <img src="https://imgs.search.brave.com/X7ulLgEYjXsXpeLeaL-UEFL23YsvBlWDoCwBX8DH8nw/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9wbmdp/bWcuY29tL3VwbG9h/ZHMveW91dHViZS95/b3V0dWJlX1BORzEw/MjM1Mi5wbmc" width="18px"> My Youtube <a href = "https://www.youtube.com/channel/UCpRczQilx53gJdJHiGfz0gQ" Here</a> 
+- <img src="https://imgs.search.brave.com/X7ulLgEYjXsXpeLeaL-UEFL23YsvBlWDoCwBX8DH8nw/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9wbmdp/bWcuY29tL3VwbG9h/ZHMveW91dHViZS95/b3V0dWJlX1BORzEw/MjM1Mi5wbmc" width="15px"> My Youtube https://www.youtube.com/channel/UCpRczQilx53gJdJHiGfz0gQ
 
 <br>
 
