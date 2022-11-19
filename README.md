@@ -59,5 +59,5 @@
 <br>
     
 
-![xara-01 GitHub stats](https://github-readme-stats.vercel.app/api?username=xara-01&show_icons=true&theme=dark)
+                ![xara-01 GitHub stats](https://github-readme-stats.vercel.app/api?username=xara-01&show_icons=true&theme=dark)
 
