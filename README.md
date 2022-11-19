@@ -40,6 +40,7 @@
     
 - ☕ Buy me a coffee
     <br>
+    <br>
     BTC: bc1q3n7v53mpcwp5mecvn75du23ynxzr67pcudxcnw
     <br>
     <br>
@@ -48,8 +49,6 @@
     <br>
     XMR: 49FLoVGhsfVS6qo2wEFZ1eWPmfroUg3oddy6V9SyY7n1EWNjjMoUWYYiDeSNYysA5XAPnBAPa5atceKoiLxzB4U3Kzefkqf
     
-<br>
-<br>
 <br>
 <br>
 
