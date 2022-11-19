@@ -41,13 +41,13 @@
 - ☕ Buy me a coffee
     <br>
     <br>
-    BTC: bc1q3n7v53mpcwp5mecvn75du23ynxzr67pcudxcnw
+    <img src="https://user-images.githubusercontent.com/114299529/195045788-d792ec78-5ed2-4318-9c32-5bb2ebba29d4.png" width="10px">BTC: bc1q3n7v53mpcwp5mecvn75du23ynxzr67pcudxcnw
     <br>
     <br>
-    ETH: 0x240a63DA568306dCca13628bff2a36B1069C84F3
+    <img src="https://user-images.githubusercontent.com/114299529/195045788-d792ec78-5ed2-4318-9c32-5bb2ebba29d4.png" width="10px"><img src="https://user-images.githubusercontent.com/114299529/195045788-d792ec78-5ed2-4318-9c32-5bb2ebba29d4.png" width="30px">ETH: 0x240a63DA568306dCca13628bff2a36B1069C84F3
     <br>
     <br>
-    XMR: 49FLoVGhsfVS6qo2wEFZ1eWPmfroUg3oddy6V9SyY7n1EWNjjMoUWYYiDeSNYysA5XAPnBAPa5atceKoiLxzB4U3Kzefkqf
+    <img src="https://user-images.githubusercontent.com/114299529/195045788-d792ec78-5ed2-4318-9c32-5bb2ebba29d4.png" width="10px"><img src="https://user-images.githubusercontent.com/114299529/195045788-d792ec78-5ed2-4318-9c32-5bb2ebba29d4.png" width="30px"><img src="https://user-images.githubusercontent.com/114299529/195045788-d792ec78-5ed2-4318-9c32-5bb2ebba29d4.png" width="30px">XMR: 49FLoVGhsfVS6qo2wEFZ1eWPmfroUg3oddy6V9SyY7n1EWNjjMoUWYYiDeSNYysA5XAPnBAPa5atceKoiLxzB4U3Kzefkqf
     
 <br>
 <br>
