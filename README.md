@@ -16,7 +16,7 @@
 <br>
 <br>
                              
-<p align="center"> 🔎 I’m actuly learning       <br> <img src="https://user-images.githubusercontent.com/114299529/195045788-d792ec78-5ed2-4318-9c32-5bb2ebba29d4.png" width="30px">  <img src="https://user-images.githubusercontent.com/114299529/195045243-3e577ef5-3ddf-4f43-ad0c-da0d42f00d22.png" width="30px">  <img src="https://user-images.githubusercontent.com/114299529/195044924-7d6f019b-9b82-4a17-b0f2-f0447c8ee2fa.png" width="30px">  <img src="https://imgs.search.brave.com/QzK9M4F3TkAV8BdxNAvdBDENcNDsCKqmPy4RMQMGybs/rs:fit:300:300:1/g:ce/aHR0cHM6Ly9rZWVz/dGFsa3N0ZWNoLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OS8wOC9iYXNoLWxv/Z28tMzAweDMwMC5w/bmc" width="30px"> 
+<p align="center"> 🔎 I’m actuly learning       <br> <img src="https://user-images.githubusercontent.com/114299529/195045788-d792ec78-5ed2-4318-9c32-5bb2ebba29d4.png" width="25px">  <img src="https://user-images.githubusercontent.com/114299529/195045243-3e577ef5-3ddf-4f43-ad0c-da0d42f00d22.png" width="25px">  <img src="https://user-images.githubusercontent.com/114299529/195044924-7d6f019b-9b82-4a17-b0f2-f0447c8ee2fa.png" width="25px">  <img src="https://imgs.search.brave.com/QzK9M4F3TkAV8BdxNAvdBDENcNDsCKqmPy4RMQMGybs/rs:fit:300:300:1/g:ce/aHR0cHM6Ly9rZWVz/dGFsa3N0ZWNoLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OS8wOC9iYXNoLWxv/Z28tMzAweDMwMC5w/bmc" width="25px"> 
 
 <br>
 <br>
