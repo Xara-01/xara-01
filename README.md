@@ -45,7 +45,7 @@
     
 -----
     
-<p align="center">☕ Buy me a coffee<p/>
+<p align="center">☕ Buy me a coffee
 
     <br>
     <br>
