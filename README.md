@@ -24,7 +24,7 @@
 
 <br>
 
-- <img src="https://imgs.search.brave.com/X7ulLgEYjXsXpeLeaL-UEFL23YsvBlWDoCwBX8DH8nw/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9wbmdp/bWcuY29tL3VwbG9h/ZHMveW91dHViZS95/b3V0dWJlX1BORzEw/MjM1Mi5wbmc" width="20px"> My Youtube https://soundcloud.com/xara_0
+- <img src="https://imgs.search.brave.com/X7ulLgEYjXsXpeLeaL-UEFL23YsvBlWDoCwBX8DH8nw/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9wbmdp/bWcuY29tL3VwbG9h/ZHMveW91dHViZS95/b3V0dWJlX1BORzEw/MjM1Mi5wbmc" width="18px"> My Youtube https://soundcloud.com/xara_0
 
 <br>
 
