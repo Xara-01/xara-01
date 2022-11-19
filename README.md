@@ -6,12 +6,7 @@
     <h3 align="center">My latest project was -> <a href="https://github.com/Xara-01/xara-Graber/tree/main"> xara graber 🔥</a></h3>
 </p>
 
-<br>
-
-<p align="center">
-<img src="https://discord.c99.nl/widget/theme-1/1002273340372820038.png">
-    
-<br>
+<br> 
 
 -----
 
