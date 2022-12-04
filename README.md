@@ -15,8 +15,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xara-01&layout=compact&card_width=445&hide_border=true&theme=midnight-purple"/>
 </p>
 
-<br>
-<br>
+
 <br>
 <br>
                              
