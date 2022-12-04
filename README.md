@@ -31,7 +31,19 @@
 <br>
 <br>  
 <br>
-  
+
+```c#
+_____________________________________
+
+OS : Windows 10 + Kali WSL
+CPU : I3 9100F
+GPU : GTX 1050 Ti
+RAM: 8Go DDR4
+_____________________________________
+
+```
+
+
 -----
     
 <p align="center">☕ Buy me a coffee
