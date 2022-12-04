@@ -10,7 +10,11 @@
 
 -----
 
-<img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
+<p align='right'>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Xara-01&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=midnight-purple"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xara-01&layout=compact&card_width=445&hide_border=true&theme=midnight-purple"/>
+</p>
+
 <br>
 <br>
 <br>
@@ -31,17 +35,6 @@
 <br>
 <br>  
 <br>
-
-```c#
-____________________________________________________________________________________________________________________________
-
-                                                   OS : Windows 10 + Kali WSL
-                                                   CPU : I3 9100F 
-                                                   GPU : GTX 1050 Ti
-                                                   RAM: 8Go DDR4
-____________________________________________________________________________________________________________________________
-
-```
 
 
 -----
